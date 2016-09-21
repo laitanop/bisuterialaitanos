@@ -7,7 +7,7 @@
 body {
     padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
     /*color: white;*/
-    background-color: #d9d9d9;
+    background-color: white;
 
 }
 
@@ -16,13 +16,15 @@ body {
 
 /*nav bar Tienda online,  Nosotros, Servicio, Contacto*/
 .navbar-fixed-top {
-    background-color: Black;
+    background-color: #b300b3;
+
 
 }
 .navbar-nav {
 
     font-family: serif;
     font-size: 20px;
+
 
 
 
@@ -33,6 +35,7 @@ a.navbar-brand {
     font-family: serif;
     font-size: 20px;
 
+
 }
 
 
@@ -41,10 +44,17 @@ a.navbar-brand {
 
 /*back del logo, pulseras, collares y Aretes*/
 
-.col-md-3 {
+.navbar-nav {
 
-    background-color: #c2bcbc;
+    font-family: serif;
+    font-size: 25px
+    
+
+    
 }
+
+
+
 /* End back del logo, pulseras, collares y Aretes*/
 
 
