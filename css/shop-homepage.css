@@ -39,6 +39,19 @@ a.navbar-brand {
 }
 
 
+.button {
+
+    font-size: 18px;
+    font-family: serif;
+    color: red;
+}
+
+.aside { 
+    display: block;
+
+    color: red;
+    float: right;
+}
 
 /* End nav bar Tienda Online, Nosotros, Servicio, Contacto*/
 
@@ -52,7 +65,10 @@ a.navbar-brand {
 
     
 }
+.glyphicon-shopping-cart {
 
+    float: right;
+}
 
 
 /* End back del logo, pulseras, collares y Aretes*/
