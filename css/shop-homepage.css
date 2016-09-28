@@ -14,7 +14,7 @@ body {
 
 
 
-/*nav bar Tienda online,  Nosotros, Servicio, Contacto*/
+/*nav bar Tienda online,  Nosotros, Servicio, Contacto, items*/
 .navbar-fixed-top {
     background-color: #b300b3;
 
@@ -43,7 +43,11 @@ a.navbar-brand {
 
     font-size: 18px;
     font-family: serif;
-    color: red;
+    background-color: gray;
+}
+#cart-popover {
+    font-size: 22px;
+    font-family: serif;
 }
 
 .aside { 
@@ -87,6 +91,36 @@ a.navbar-brand {
 
 }
 /*lista de articulos end*/
+
+/*nosotros page */
+
+.nosotrosimg {
+
+    float: right;
+}
+
+#nostrosinfo {
+
+    float: center;
+    padding-left: 370px;
+    font-family: serif;
+    font-size: 30px;
+    color: #990099;
+
+}
+
+#nostrosinfo p{
+
+    float: center;
+    padding-right: 370px;
+    font-family: serif;
+    font-size: 30px;
+    color: grey;
+
+}
+
+
+/*nostros page End*/
 
 .slide-image {
     width: 100%;
