@@ -97,12 +97,13 @@ a.navbar-brand {
 .nosotrosimg {
 
     float: right;
+
 }
 
 #nostrosinfo {
 
     float: center;
-    padding-left: 370px;
+    padding-left: px;
     font-family: serif;
     font-size: 30px;
     color: #990099;
@@ -112,10 +113,11 @@ a.navbar-brand {
 #nostrosinfo p{
 
     float: center;
-    padding-right: 370px;
+    padding-right: px;
     font-family: serif;
     font-size: 30px;
     color: grey;
+
 
 }
 
