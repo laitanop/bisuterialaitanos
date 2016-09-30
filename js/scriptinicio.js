@@ -1,12 +1,12 @@
 
 
 var inicio = [
-{img: "i1.jpg" , nombre: "Coleccion Maya", descripcion: "Pulseras Macrame de colores con dije Estela Maya" },
-{img: "i2.jpg" , nombre: "Coleccion Maya", descripcion: "Pulseras Macrame de colores con dije Estela Maya" },
-{img: "i3.jpg" , nombre: "Coleccion Maya", descripcion: "Pulseras Macrame de colores con dije Estela Maya" },
-{img: "i4.jpg" , nombre: "Coleccion Maya", descripcion: "Pulseras Macrame de colores con dije Estela Maya" },
-{img: "i5.jpg" , nombre: "Coleccion Maya", descripcion: "Pulseras Macrame de colores con dije Estela Maya" },
-{img: "i6.jpg" , nombre: "Coleccion Maya", descripcion: "Pulseras Macrame de colores con dije Estela Maya" },
+{img: "i1.jpg" , nombre: "Pulseras", descripcion: "Pulseras Macrame de colores con dije Estela Maya." },
+{img: "i2.jpg" , nombre: "Pulseras", descripcion: "Pulsera de colores con dije de pewter Maya." },
+{img: "i3.jpg" , nombre: "Pulseras Maya", descripcion: "Brasalete Maya" },
+{img: "i4.jpg" , nombre: "Pulseras ", descripcion: "Elige un color para cada dia." },
+{img: "i5.jpg" , nombre: "pulseras", descripcion: "Puedes escoger nuestra variedad de pulseras." },
+{img: "i6.jpg" , nombre: "Ferias Artesanales", descripcion: "visitanos en diferentes ferias artesanales." },
 
 ];
 

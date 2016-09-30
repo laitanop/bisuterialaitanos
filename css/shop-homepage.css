@@ -14,19 +14,37 @@ body {
 
 
 
-/*nav bar Tienda online,  Nosotros, Servicio, Contacto, items*/
-.navbar-fixed-top {
+/*nav bar inicio,  Nosotros, Servicio, Contacto, items*/
+#navbar1 {
     background-color: #b300b3;
-
-
+    border: #b300b3;
 }
-.navbar-nav {
+
+
+#navbar1text a {
+
+    color: white;
+    font-family: serif;
+    font-size: 25px;
+}
+
+/*end nav bar inicio, nosotros, servicio, contacto, items*/
+
+/*nav bar logo, pulseras, collares, aretes*/
+#articulos {
 
     font-family: serif;
-    font-size: 20px;
+    font-size: 25px;
+}
 
+#articulos a {
 
+    color: #b300b3;
 
+}
+
+#barraarticulos {
+    background-color: white;
 
 }
 
@@ -64,7 +82,9 @@ a.navbar-brand {
 .navbar-nav {
 
     font-family: serif;
-    font-size: 25px
+    font-size: 25px;
+    background-color:
+
     
 
     
