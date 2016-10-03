@@ -96,6 +96,12 @@ a.navbar-brand {
 
     
 }
+
+#cart-popover {
+
+    float: left;
+}
+
 .glyphicon-shopping-cart {
 
     float: right;
