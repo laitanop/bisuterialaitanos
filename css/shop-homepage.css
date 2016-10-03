@@ -131,26 +131,30 @@ a.navbar-brand {
 
     float: right;
     padding-right: 300px;
+    width: 400px;
+    margin: auto;
+
 
 }
 
 #nostrosinfo {
 
-    float: center;
-    padding-left: 300px;
+    float: ;
+    padding-left: 50px;
     font-family: serif;
     font-size: 18px;
-    color: #990099;
+    color: White;
+    max-width: 800px;
 
 }
 
 #nostrosinfo p{
 
-    float: center;
-    padding-right: 100px;
+    float: right;
+    padding-right: 50px;
     font-family: serif;
     font-size: 18px;
-    color: grey;
+    color: white;
 
 
 }
