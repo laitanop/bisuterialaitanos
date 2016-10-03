@@ -30,6 +30,13 @@ body {
 
 /*end nav bar inicio, nosotros, servicio, contacto, items*/
 
+/*carrusel */
+
+
+
+/*carrusel end */
+
+
 /*nav bar logo, pulseras, collares, aretes*/
 #articulos {
 
@@ -151,12 +158,14 @@ a.navbar-brand {
 }
 
 .carousel-holder {
-    margin-bottom: 30px;
+    margin-bottom: 50px;
+    padding-left: 280px;
+
 }
 
 .carousel-control,
 .item {
-    border-radius: 4px;
+    border-radius: 10px;
 }
 
 .caption {
