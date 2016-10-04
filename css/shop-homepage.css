@@ -11,7 +11,12 @@ body {
 
 }
 
+.container {
 
+    width: 50%;
+    max-width: 1000px;
+
+}
 
 
 /*nav bar inicio,  Nosotros, Servicio, Contacto, items*/
@@ -167,17 +172,33 @@ a.navbar-brand {
 #contactoimg {
 
     float: left;
-    width: 230px;
-    height: 180px;
+    width: 100%;
+    height: auto;
+
 
     
 }
+
+
 article {
-    margin-left: 250px;
+    
     border-left: 1px solid gray;
     padding: 1em;
     overflow: hidden;
     color: grey;
+    width: 70%;
+    height: 30%;
+}
+
+@media screen and (max-width: 800px) {
+#contactoimg {
+    width: 100%;
+}
+
+article {
+    width: 100%;
+}
+
 }
 
 
