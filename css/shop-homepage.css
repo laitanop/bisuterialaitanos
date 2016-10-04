@@ -21,8 +21,8 @@ body {
 
 /*nav bar inicio,  Nosotros, Servicio, Contacto, items*/
 #navbar1 {
-    background-color: #b300b3;
-    border: #b300b3;
+    background-color: #a374b9;
+    border: #a374b9;
 }
 
 
@@ -51,7 +51,7 @@ body {
 
 #articulos a {
 
-    color: #b300b3;
+    color: #a374b9;
 
 }
 
@@ -148,7 +148,7 @@ a.navbar-brand {
     padding-left: 50px;
     font-family: serif;
     font-size: 18px;
-    color: #b300b3;
+    color: #616161;
     max-width: 800px;
 
 }
@@ -159,7 +159,7 @@ a.navbar-brand {
     padding-right: 50px;
     font-family: serif;
     font-size: 18px;
-    color: #b300b3;
+    color: #616161;
 
 
 }
@@ -185,7 +185,7 @@ article {
     border-left: 1px solid gray;
     padding: 1em;
     overflow: hidden;
-    color: grey;
+    color: #616161;
     width: 70%;
     height: 30%;
 }
