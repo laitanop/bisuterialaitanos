@@ -167,13 +167,13 @@ a.navbar-brand {
 #contactoimg {
 
     float: left;
-    width: 300px;
-    height: 250px;
+    width: 230px;
+    height: 180px;
 
     
 }
 article {
-    margin-left: 170px;
+    margin-left: 250px;
     border-left: 1px solid gray;
     padding: 1em;
     overflow: hidden;
