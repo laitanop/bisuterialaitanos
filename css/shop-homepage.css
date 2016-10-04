@@ -166,17 +166,20 @@ a.navbar-brand {
 
 #contactoimg {
 
-    position:absolute;
-    width:480px;
-    height:350px;
-    left:50%;
-    top:50%;
-    margin-left:-390px;
-    margin-top:-325px;
-   
+    float: left;
+    width: 300px;
+    height: 250px;
 
-
+    
 }
+article {
+    margin-left: 170px;
+    border-left: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
+    color: grey;
+}
+
 
 /*contacto page end*/
 .slide-image {
