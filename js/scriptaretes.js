@@ -19,6 +19,10 @@ var aretes = [
   {img: "a18.jpg" ,precio: "₡ 4,000.00", nombre: "Pulsera Minnie", descripcion: "Pulsera de Minnie color rosa.", stock: "2" },
   {img: "a19.jpg" ,precio: "₡ 4,000.00", nombre: "Pulsera Minnie", descripcion: "Pulsera de Minnie color rosa.", stock: "2" },
 
+  {img: "a20.jpg" ,precio: "₡ 4,000.00", nombre: "Pulsera Minnie", descripcion: "Pulsera de Minnie color rosa.", stock: "2" },
+  {img: "a21.jpg" ,precio: "₡ 4,000.00", nombre: "Pulsera Minnie", descripcion: "Pulsera de Minnie color rosa.", stock: "2" },
+  {img: "a22.jpg" ,precio: "₡ 4,000.00", nombre: "Pulsera Minnie", descripcion: "Pulsera de Minnie color rosa.", stock: "2" },
+
 ];
 
 $(document).ready(function(){
