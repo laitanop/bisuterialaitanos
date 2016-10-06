@@ -22,6 +22,14 @@ var aretes = [
   {img: "a20.jpg" ,precio: "₡ 4,000.00", nombre: "Pulsera Minnie", descripcion: "Pulsera de Minnie color rosa.", stock: "2" },
   {img: "a21.jpg" ,precio: "₡ 4,000.00", nombre: "Pulsera Minnie", descripcion: "Pulsera de Minnie color rosa.", stock: "2" },
   {img: "a22.jpg" ,precio: "₡ 4,000.00", nombre: "Pulsera Minnie", descripcion: "Pulsera de Minnie color rosa.", stock: "2" },
+  {img: "a23.jpg" ,precio: "₡ 4,000.00", nombre: "Pulsera Minnie", descripcion: "Pulsera de Minnie color rosa.", stock: "2" },
+  {img: "a24.jpg" ,precio: "₡ 4,000.00", nombre: "Pulsera Minnie", descripcion: "Pulsera de Minnie color rosa.", stock: "2" },
+  {img: "a25.jpg" ,precio: "₡ 4,000.00", nombre: "Pulsera Minnie", descripcion: "Pulsera de Minnie color rosa.", stock: "2" },
+  {img: "a26.jpg" ,precio: "₡ 4,000.00", nombre: "Pulsera Minnie", descripcion: "Pulsera de Minnie color rosa.", stock: "2" },
+  {img: "a27.jpg" ,precio: "₡ 4,000.00", nombre: "Pulsera Minnie", descripcion: "Pulsera de Minnie color rosa.", stock: "2" },
+  {img: "a28.jpg" ,precio: "₡ 4,000.00", nombre: "Pulsera Minnie", descripcion: "Pulsera de Minnie color rosa.", stock: "2" },
+
+
 
 ];
 
